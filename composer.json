@@ -1,5 +1,5 @@
 {
-    "name": "martin1982/live-broadcast-bundle",
+    "name": "centric/live-broadcast-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for live-streaming to various online networks",
     "license": "MIT",
