@@ -17,7 +17,7 @@
         "martin1982/facebook-graph-sdk": "^7.0.1",
         "google/apiclient-services": "*",
         "google/apiclient": "^2.7",
-        "psr/log": "^3.0",
+        "psr/log": "^2.0",
         "react/event-loop": "^1.1",
         "symfony/console": "^5.4|^6.0",
         "symfony/framework-bundle": "^5.4|^6.0",
